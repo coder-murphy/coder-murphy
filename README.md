@@ -38,3 +38,7 @@ I build robust backend systems, beautiful web frontends, and immersive games.
 ---
 
 ### 🔥 GitHub Stats
+
+![Murphy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder_Murphy&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder_Murphy&layout=compact&theme=radical)
