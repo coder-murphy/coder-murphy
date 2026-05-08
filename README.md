@@ -1,31 +1,30 @@
 # 👋 Hi, I'm Murphy
 ### Full-Stack Developer & Game Developer
-### From China
 I build robust backend systems, beautiful web frontends, and immersive games.  
 ---
 
 ## 🚀 My Tech Stack & Skills
 
 ### 🌐 Web Development
-![.NET](https://img.shields.iobadge.NET-512BD4style=for-the-badge&logo=dotnet&logoColor=white)
-![Vue.js](https://img.shields.iobadgeVue.js-4FC08Dstyle=for-the-badge&logo=vuedotjs&logoColor=white)
-![Element Plus](https://img.shields.iobadgeElement%20Plus-409EFFstyle=for-the-badge&logo=element&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=elementplus&logoColor=white)
 
 ### 🎮 Game Development
-![Unreal Engine](httpsimg.shields.iobadgeUnreal%20Engine-0E1128style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](httpsimg.shields.iobadgeUnity-000000style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 🗄️ Databases
-![MySQL](httpsimg.shields.iobadgeMySQL-4479A1style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](httpsimg.shields.iobadgePostgreSQL-316192style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](httpsimg.shields.iobadgeSQLite-003B57style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📜 Languages
-![C#](httpsimg.shields.iobadgeC%23-239120style=for-the-badge&logo=csharp&logoColor=white)
-![C++](httpsimg.shields.iobadgeC++-00599Cstyle=for-the-badge&logo=cplusplus&logoColor=white)
-![C](httpsimg.shields.iobadgeC-A8B9CCstyle=for-the-badge&logo=c&logoColor=white)
-![Python](httpsimg.shields.iobadgePython-3776ABstyle=for-the-badge&logo=python&logoColor=white)
-![TypeScript](httpsimg.shields.iobadgeTypeScript-3178C6style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -39,6 +38,6 @@ I build robust backend systems, beautiful web frontends, and immersive games.
 ---
 
 ## 🔥 GitHub Stats
-![Murphy's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Coder-Murphy&show_icons=true&theme=radical)
+![Murphy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-Murphy&show_icons=true&theme=radical)
 
-![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=Coder-Murphy&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Murphy&layout=compact&theme=radical)
